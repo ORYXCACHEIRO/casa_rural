@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /
+
+User-agent: Twitterbot
+Allow: /images
+Allow: /archives
+
+User-agent: facebookexternalhit
+Allow: /images
